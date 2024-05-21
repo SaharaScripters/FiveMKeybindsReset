@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FiveM Keybinds Reset** is a batch script developed by Sahara Scripters to automate the process of resetting keybinds in the FiveM application. This tool aims to provide a quick and efficient way to reset keybinds to their default state, helping users resolve issues related to conflicting or misconfigured keybindings.
+**FiveM Keybinds Reset** is a batch script written by Sahara Scripters to automate the process of resetting keybinds in the FiveM application. This tool aims to provide a quick and efficient way to reset keybinds to their default state, helping users resolve issues related to conflicting or misconfigured keybindings.
 
 ## How It Works
 
