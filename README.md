@@ -52,4 +52,4 @@ Contributions to enhance or improve this script are welcome. Feel free to open a
 
 ## Need Help?
 
-[![Need Help?](https://cdn.discordapp.com/attachments/911806162213687357/1252070877970038794/DiscordInviteBanner.png)](https://discord.gg/kQxzuyqnkR)
+[![Need Help?](https://cdn.imgpile.com/f/yryoDqk_xl.png)](https://discord.gg/kQxzuyqnkR)
